@@ -14,7 +14,7 @@ Il sito è progettato solo su una pagina, dove è possibile suddividerlo in 3 pa
 - La creazione dei viaggi
 
 
-![Filtro](https://github.com/GiulioBorzetta/php-mysql-travel/blob/main/images/filter.png)
+![Filtro](https://github.com/GiulioBorzetta/php-mysql_travel/blob/main/images/filter.png)
 
 In questa immagine si può notare che per cercare le informazioni necessarie, è possibile farlo in due modi:
 
@@ -23,11 +23,11 @@ In questa immagine si può notare che per cercare le informazioni necessarie, è
 
 Andando ad inserire in uno dei due riquadri o entrambi dei valori, i risultati che trova li mostrerà nella tabella che è presente subito sotto.
 
-![Creazione dei paesi](https://github.com/GiulioBorzetta/php-mysql-travel/blob/main/images/country.png)
+![Creazione dei paesi](https://github.com/GiulioBorzetta/php-mysql_travel/blob/main/images/country.png)
 
 Nella parte della creazione dei paesi, si può notare che ci sta solo un valore da inserire, il paese e una volta inserito sarà possibile vedere tutti i paesi inseriti nella tabella sottostante.
 
-![Creazione dei viaggi](https://github.com/GiulioBorzetta/php-mysql-travel/blob/main/images/travel.png)
+![Creazione dei viaggi](https://github.com/GiulioBorzetta/php-mysql_travel/blob/main/images/travel.png)
 
 Nella creazione dei viaggi, possiamo notare una scritta "Add New Travel", dove aprirà una nuova pagina con la possibilità di inserire:
 - Numero dei posti disponibili
@@ -36,7 +36,7 @@ Nella creazione dei viaggi, possiamo notare una scritta "Add New Travel", dove a
 - Paese 3
 - Paese 4
 
-![Inserimento dati Viaggi](https://github.com/GiulioBorzetta/php-mysql-travel/blob/main/images/insert_travel.png)
+![Inserimento dati Viaggi](https://github.com/GiulioBorzetta/php-mysql_travel/blob/main/images/insert_travel.png)
 
 Una volta inseriti tutti i valori (i paesi non devono esser inseriti tutti, in un viaggio potrebbero starci anche solo 2 paesi), si ritornerà nella prima pagina e saranno presenti tutti i viaggi inseriti
 
