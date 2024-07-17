@@ -3,6 +3,7 @@
 ## Come avviare il progetto sul proprio pc?
 
 - Duplicare il progetto sul proprio computer
+- dalla cartella MYSQL prendere file presente all'interno ed importarlo su MYSQL
 - Aprire il terminare e usare il comando `php -S localhost:8000`
 
 ## Come è strutturato il progetto?
